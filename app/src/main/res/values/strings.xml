@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prj_Agenda</string>
+    <string name="main_title">Agenda de contatos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_title">Contato</string>
+    <string name="edit_hint_name">Nome</string>
+    <string name="edit_hint_tel">Telefone</string>
+    <string name="edit_bt_save">Salvar</string>
+    <string name="edit_desc_bt_salvar">Botão para salvar o contato</string>
+</resources>

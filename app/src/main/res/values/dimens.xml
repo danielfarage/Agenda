@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_title_size">22sp</dimen>
+    <dimen name="item_name_size">18sp</dimen>
+    <dimen name="item_padding">15dp</dimen>
+</resources>
