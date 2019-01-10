@@ -16,10 +16,10 @@ import java.util.List;
 @Dao
 public interface ContactDao {
 
-    @Query("SELECT * FROM contact")
-    ArrayList<Contact> getAll();
+    @Query("SELECT * FROM contacts")
+    LiveData<List<Contact>> getAll();
 
-    @Query("SELECT * FROM contact WHERE id IN(:userId)")
+    @Query("SELECT * FROM contacts WHERE id IN(:userId)")
     List<Contact> getById(int[] userId);
 
     @Insert
