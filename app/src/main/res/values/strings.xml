@@ -9,4 +9,9 @@
     <string name="edit_hint_tel">Telefone</string>
     <string name="edit_bt_save">Salvar</string>
     <string name="edit_desc_bt_salvar">Botão para salvar o contato</string>
+    <string name="btn_add_new_contact">Botão para adicionar novo contato</string>
+    <string name="et_name_contact">Inserir nome do contato</string>
+    <string name="et_tel_contact">Telefone do novo contato</string>
+    <string name="list_contacts">Lista de contatos</string>
+    <string name="card_contact">Aperte para ir editar este contato</string>
 </resources>

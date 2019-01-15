@@ -33,6 +33,7 @@
         <android.support.design.widget.TextInputEditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:contentDescription="@string/et_name_contact"
             android:id="@+id/edit_et_nome"
             android:hint="@string/edit_hint_name"
             android:inputType="textPersonName" />
@@ -53,6 +54,7 @@
             android:id="@+id/edit_et_tel"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:contentDescription="@string/et_tel_contact"
             android:hint="@string/edit_hint_tel"
             android:inputType="number" />
     </android.support.design.widget.TextInputLayout>
